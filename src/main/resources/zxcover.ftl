@@ -37,7 +37,7 @@
             height: 1122px;
             width: 100%;
             box-sizing: border-box;
-            background:url('https://cip-front-test.phjrt.com/cipimages/backgroudimg.png');
+            background:url('https://bridgeli.cn/backgroudimg.png');
             background-size: cover;
         }
         .top-bian{
@@ -94,11 +94,11 @@
         ${compName!"-"}
     </div>
     <div class="desc-info">
-        本报告生成时间：${createTime?string("yyyy-MM-dd HH:mm:ss")}，您所看到的报告内容为截止至该时间点该公司在普惠通征信数据快照。所有报告内容由普惠通经过数据调用生成，供您参考。
+        本报告生成时间：${createTime?string("yyyy-MM-dd HH:mm:ss")}，报告生命。
     </div>
     <div class="main-tags row mt-4">
-        <div class="text-center col-xs-6 col-md-6 col-sm-6  text-blod">企业征信查询</div>
-        <div class="text-center col-xs-6 col-md-6 col-sm-6  text-blod">尽在“普惠通”</div>
+        <div class="text-center col-xs-6 col-md-6 col-sm-6  text-blod">标语</div>
+        <div class="text-center col-xs-6 col-md-6 col-sm-6  text-blod">标语</div>
     </div>
 </div>
 </body>
